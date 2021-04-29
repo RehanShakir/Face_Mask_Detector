@@ -1,1 +1,1 @@
-"#Face_Mask_Detector" 
+#Face_Mask_Detector
